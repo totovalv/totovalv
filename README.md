@@ -33,4 +33,4 @@
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=totovalv&show_icons=true&locale=en" alt="totovalv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=totovalv&" alt="totovalv" /></p>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=harrystylesjtc&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+
