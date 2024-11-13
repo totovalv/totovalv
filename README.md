@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **valverdetomas98@gmail.com**
 
-- ⚡ Fun fact **im veggie 🌿 ,guitarist 🎸, cinephilic 🎬 and read philosophic and artistic articles or books. I have a dog called Calo 🐾 y i usually frequent museums and art exhibitions 🎨**
+- ⚡ Fun fact **im veggie 🌿 ,guitarist 🎸, cinephilic 🎬 and read philosophic and artistic articles or books. I have a dog called Calo 🐾 also   I usually frequent museums and art exhibitions 🎨**
  <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
